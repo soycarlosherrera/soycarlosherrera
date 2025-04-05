@@ -35,7 +35,7 @@
 
 <p>
   <a href="mailto:carlos4505@gmail.com">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/-carlos4505p@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" height="25px"></img>
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/-carlos4505@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" height="25px"></img>
   </a>
 </p>
 
